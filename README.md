@@ -62,13 +62,9 @@
 
 - [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [x] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
-
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
-
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [x] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
 ## Windows Fundamentals
 
@@ -116,7 +112,7 @@
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [x] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
@@ -150,7 +146,7 @@
 
 ---
 
-- [ ] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
+- [x] [TryHackMe | Introductory Networking](https://tryhackme.com/room/introtonetworking)
 
 - [ ] [TryHackMe | What is Networking?](https://tryhackme.com/room/whatisnetworking)
 
@@ -176,7 +172,7 @@
 
 - [ ] [TryHackMe | REmux The Tmux](https://tryhackme.com/room/tmuxremux)
 
-- [ ] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
+- [x] [TryHackMe | Hydra](https://tryhackme.com/room/hydra)
 
 - [ ] [TryHackMe | Sublist3r](https://tryhackme.com/room/rpsublist3r)
 

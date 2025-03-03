@@ -44,7 +44,7 @@
 
 - [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
 - [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
@@ -54,7 +54,7 @@
 
 - [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 

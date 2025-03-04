@@ -36,13 +36,13 @@
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
 - [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [x] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [x] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
